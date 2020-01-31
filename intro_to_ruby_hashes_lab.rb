@@ -5,7 +5,7 @@ end
 puts new_hash
 
 def actor
-
+ actor = {:name => 
 end
 
 def monopoly
